@@ -7,3 +7,7 @@ async function questioner(){
     const result = await inquirer.prompt(questions).then((data)=>data)
     return result;
 };
+
+async function init(){
+    const result = await questioner()
+}
