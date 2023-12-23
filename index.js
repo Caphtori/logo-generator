@@ -9,5 +9,8 @@ async function questioner(){
 };
 
 async function init(){
-    const result = await questioner()
+    const result = await questioner();
+    
 }
+
+init();
