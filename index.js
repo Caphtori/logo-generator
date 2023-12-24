@@ -1,5 +1,6 @@
 const fs = require("fs").promises;
 const inquirer = require("inquirer");
+const { renderElements } = require("./lib/elementConstructor.js");
 
 const questions = require("./lib/questions.js");
 
@@ -11,6 +12,6 @@ async function questioner(){
 async function init(){
     const result = await questioner();
     
-}
+};
 
 init();
