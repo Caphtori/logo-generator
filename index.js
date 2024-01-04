@@ -12,7 +12,7 @@ async function questioner(){
 
 function writeToFile(filename, data) {
     fs.writeFile(`./output/${filename}`, renderElements(data)).then((err) =>
-    err ? console.log(err) : console.log('Success!'));
+    err ? console.log(err) : console.log(`Generated ${filename}`));
 };
 
 async function init(){
