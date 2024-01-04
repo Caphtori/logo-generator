@@ -1,6 +1,6 @@
 <svg width="300" height="200" version="1.1">
-    <circle cx="150" cy="100" r="75" r="100" fill="orange"/>
-    <text x=50% y="50%" fill="green" class="default" dominant-baseline="middle" text-anchor="middle">CIR</text>
+    <circle cx="150" cy="100" r="75" fill="purple"/>
+    <text x="50%" y="50%" fill="green" class="default" dominant-baseline="middle" text-anchor="middle">CIR</text>
     <style>
         .small {
             font: 16px sans-serif;
