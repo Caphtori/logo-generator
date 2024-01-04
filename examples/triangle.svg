@@ -1,6 +1,6 @@
-<svg width="300" height="200" version="1.1">
+<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
     <polygon points="150, 18 244, 182 56, 182" fill="white"/>
-    <text x="50%" y=59% fill="red" class="default" dominant-baseline="middle" text-anchor="middle">TRI</text>
+    <text x="50%" y="59%" fill="red" class="default" dominant-baseline="middle" text-anchor="middle">TRI</text>
     <style>
         .small {
             font: 16px sans-serif;

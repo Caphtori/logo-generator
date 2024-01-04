@@ -13,8 +13,8 @@ These warnings do not affect the performance of the application, but can be both
 Use the terminal to navigate to the application folder.  Enter the command: "node index.js".  Follow the instructions in each question prompt.  If instructions were followed correctly, a new svg logo file will appear in the "output" folder.
 
 ## Screenshots
-![Terminal](./assets/images/logo-generator_screenshot.png)
+![Terminal](./assets/images/logo-generator_screenshot1.png)
 ![File Example](./assets/images/logo-generator_screenshot2.png)
 
 ## Video
-[Usage Video](https://drive.google.com/file/d/1u4GCi0KHTVYUAi90n1lrsp3Cjc_d3C-1/view)
+[Usage Video](https://drive.google.com/file/d/1UPOKS-KUBYTbTCe43jQi63U4BPMecpz7/view)

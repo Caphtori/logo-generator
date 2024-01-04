@@ -1,6 +1,6 @@
 <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <rect x="75" y="25" height="150" width="150" fill="yellow"/>
-    <text x="50%" y="50%" fill="blue" class="default" dominant-baseline="middle" text-anchor="middle">EXA</text>
+    <rect x="75" y="25" height="150" width="150" fill="red"/>
+    <text x="50%" y="50%" fill="white" class="small" dominant-baseline="middle" text-anchor="middle">LIL</text>
     <style>
         .small {
             font: 16px sans-serif;
