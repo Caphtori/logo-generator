@@ -1,0 +1,15 @@
+<svg width="300" height="200" version="1.1">
+    <polygon points="150, 18 244, 182 56, 182" fill="white"/>
+    <text x="50%" y=59% fill="red" class="default" dominant-baseline="middle" text-anchor="middle">TRI</text>
+    <style>
+        .small {
+            font: 16px sans-serif;
+        }
+        .default {
+            font: 32px sans-serif;
+        }
+        .large {
+            font: 48px sans-serif;
+        }
+    </style>
+</svg>
