@@ -18,3 +18,6 @@ Use the terminal to navigate to the application folder.  Enter the command: "nod
 
 ## Video
 [Usage Video](https://drive.google.com/file/d/1UPOKS-KUBYTbTCe43jQi63U4BPMecpz7/view)
+
+## Work Cited
+This repo adapts a [script](https://github.com/nodemailer/nodemailer/issues/1599) written by [Sanchyan Chakraborty](https://github.com/sanchyanchakraborty), to solve a similar punycode deprecation warning issue encountered while using Nodemailer.
