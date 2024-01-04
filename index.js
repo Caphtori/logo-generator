@@ -11,7 +11,7 @@ async function questioner(){
 };
 
 function writeToFile(filename, data) {
-    fs.writeFile(`/output/${filename}`, renderElements(data)).then((err) =>
+    fs.writeFile(`./output/${filename}`, renderElements(data)).then((err) =>
     err ? console.log(err) : console.log('Success!'));
 };
 
